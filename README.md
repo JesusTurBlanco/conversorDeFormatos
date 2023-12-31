@@ -1,4 +1,4 @@
-##Conversor de formatos de vídeo a mpeg
+# Conversor de formatos de vídeo a mpeg
 
 Este script sirve para cambiar el formato de todos los vídeos ubicados en una carpeta a otro compatible con un reproductor de dvd.
 
@@ -21,7 +21,7 @@ El segundo parámetro es opcional. Indica la carpeta dónde se depositarán los 
 
 El tercer parámetro es también opcional, indica la calidad que se desea para la conversión. Deberá introducir un número entre 2 y 31. Siendo 2 la máxima calidad y 31 la mínima. En caso de no introducir ninguno se supondrá que la calidad es 15.
 
-###Recomendaciones:
+## Recomendaciones:
 En caso de que el directorio de entrada o el de salida contengan espacios, asegúrese de que al introducir la ruta del directorio como parámetro, esta vaya entrecomillada.
 
 Evite usar la máxima calidad de conversión, pues el tamaño aumenta considerablemente.
